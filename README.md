@@ -1,7 +1,6 @@
-[![MasterHead](https://images.app.goo.gl/wwMG3XzvNaj5hq9L9.gif)]
 <h1 align="center">Hi 👋, I'm zen moh</h1>
 <h3 align="center">Flutter developer from Syria</h3>
-<img align="right" alt="coding" width="400" scr="https://images.app.goo.gl/wwMG3XzvNaj5hq9L9.gif">
+<img align="right" alt="Coding" width="400" src="https://curlybrace.org/assets/img/course/server%20side.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenmoh&label=Profile%20views&color=0e75b6&style=flat" alt="zenmoh" /> </p>
 
